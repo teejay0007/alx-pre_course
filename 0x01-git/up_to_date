@@ -1,0 +1,7 @@
+git add
+git push
+git commit -m
+git checkout -b 
+git push origin main
+git config --global user.name
+git config --global user.email
